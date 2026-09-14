@@ -1,0 +1,450 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 15352,
+      "max": [
+        2.505241632461548,
+        0.6105601787567139,
+        0.611234724521637
+      ],
+      "min": [
+        -2.500831127166748,
+        -0.7703383564949036,
+        -2.6228678226470947
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 184224,
+      "componentType": 5126,
+      "count": 15352,
+      "max": [
+        0.9999999403953552,
+        0.9999868869781494,
+        0.9999515414237976
+      ],
+      "min": [
+        -0.9999999403953552,
+        -0.999912440776825,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 15352,
+      "max": [
+        0.996791660785675,
+        0.9937199950218201
+      ],
+      "min": [
+        0.00046772530185990036,
+        0.00046771878260187805
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 122816,
+      "componentType": 5126,
+      "count": 15352,
+      "max": [
+        1.9714981317520142,
+        1.427520751953125
+      ],
+      "min": [
+        -0.9714980125427246,
+        -0.44854068756103516
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 56880,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 368448,
+      "componentType": 5126,
+      "count": 14567,
+      "max": [
+        1.0210133790969849,
+        1.0068799257278442,
+        2.464348793029785
+      ],
+      "min": [
+        -1.0166033506393433,
+        -0.7470239996910095,
+        -0.7220021486282349
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 543252,
+      "componentType": 5126,
+      "count": 14567,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 245632,
+      "componentType": 5126,
+      "count": 14567,
+      "max": [
+        0.9995324015617371,
+        0.9637011885643005
+      ],
+      "min": [
+        0.0004677148535847664,
+        0.0004677061515394598
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 362168,
+      "componentType": 5126,
+      "count": 14567,
+      "max": [
+        1.0946828126907349,
+        1.3804717063903809
+      ],
+      "min": [
+        -0.09468264877796173,
+        -0.43368226289749146
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 227520,
+      "componentType": 5125,
+      "count": 51480,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 718056,
+      "componentType": 5126,
+      "count": 559,
+      "max": [
+        0.8828774690628052,
+        -0.22340533137321472,
+        2.218621015548706
+      ],
+      "min": [
+        -0.8784669637680054,
+        -0.9455080032348633,
+        0.6864305138587952
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 724764,
+      "componentType": 5126,
+      "count": 559,
+      "max": [
+        0.9123339056968689,
+        -0.3154492974281311,
+        0.7307911515235901
+      ],
+      "min": [
+        -0.9123343825340271,
+        -0.9999530911445618,
+        -0.7438740134239197
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 478704,
+      "componentType": 5126,
+      "count": 559,
+      "max": [
+        0.8561945557594299,
+        0.6109838485717773
+      ],
+      "min": [
+        0.6552062630653381,
+        0.3295930325984955
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 483176,
+      "componentType": 5126,
+      "count": 559,
+      "max": [
+        0.8561945557594299,
+        0.6109838485717773
+      ],
+      "min": [
+        0.6552062630653381,
+        0.3295930325984955
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 433440,
+      "componentType": 5125,
+      "count": 2592,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "levLyamin (https://sketchfab.com/levLyamin)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/abdf4d947cb846a1b4309db1e6f83ef9",
+      "title": "Астронавт"
+    },
+    "generator": "Sketchfab-16.75.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 443808,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 487648,
+      "byteOffset": 443808,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 731472,
+      "byteOffset": 931456,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1662928,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Body",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.791493,
+          0.7662910000000001,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8304276193654397
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Prop",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.827556,
+          0.827556,
+          0.827556,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.7733644556006274
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Glass",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Astronut_Body_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Astronut_Prop_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Astronut_Glass_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12,
+            "TEXCOORD_1": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "a1d818b878bb4de190c379e58adc9235.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        149.75030517578125,
+        2809.869873046875,
+        67.45738220214844,
+        1.0
+      ],
+      "name": "Astronut"
+    },
+    {
+      "mesh": 0,
+      "name": "Astronut_Body_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Astronut_Prop_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Astronut_Glass_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
