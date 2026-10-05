@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AR.js: маркер Hiro</title>
+
+  <!-- A-Frame: 3D-движок -->
+  <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+  <!-- AR.js: трекинг маркеров -->
+  <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+</head>
+<body style="margin: 0; overflow: hidden;">
+
+  <!-- Сцена AR с настройками под Hiro -->
+  <a-scene embedded arjs="sourceType: webcam; debugUIEnabled: false;">
+
+    <!-- Базовое освещение -->
+    <a-entity light="type: ambient; intensity: 0.9;"></a-entity>
+    <a-entity light="type: directional; intensity: 0.8;" position="-1 2 1"></a-entity>
+
+    <!-- Маркер Hiro (preset: hiro - встроен в AR.js) -->
+    <a-marker preset="hiro">
+      <!-- Твоя модель из задания 1 -->
+      <a-gltf-model src="https://raw.githubusercontent.com/tema-zima/cross1/main/scene.gltf"
+                    position="0 0.5 0" scale="0.5 0.5 0.5"></a-gltf-model>
+    </a-marker>
+
+    <!-- Камера -->
+    <a-entity camera></a-entity>
+
+  </a-scene>
+
+</body>
+</html>
